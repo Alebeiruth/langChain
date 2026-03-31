@@ -1,0 +1,18 @@
+já trabalhei com Llama inclusive tenho participação da primeira equipe de IA em uma competição no Kaggle, trabalho diariamente com OpenAI, Gemini e Claude da Anthopric.
+Ainda não tive oportunidade de trabalhar com LangChain porem estou trabalhando com automação com N8N.
+Já trabalhei com python e fastAPI e Django, em projetos pessoais.
+Trabalho com Docker, GitHub, DevOps, PostgreSQL, MySQL WorkBench, LiteSQL, Azure e Google Cloud.
+Trabalhei primeiro estagiário em ASP Net e C#, SQL WorkBench no Tribunal de conta do Estado do Parana.
+Trabalhei segundo como freelancer com visão computacional para startup com software Yolo e com dataset único.
+Trabalhei terceiro como pesquisador em projeto de pesquisa com Séries Temporais para produtos derivados do petróleo, no qual gerou artigo cientifico no Centro Integrado de Soluções em Inteligência Artificial.
+Trabalho como desenvolvedor pleno com LLM e automação de processos, na criação de agentes e chabots inteligentes.
+Antes de todos os trabalhos citados acima trabalhei como arquiteto e urbanista por 8 anos e fiz a transição de carreira, trabalhando hoje na Federação da Industria do Estado do Paraná. 
+Fiz uma pós graduação em IA pela UTFPR.
+Já participei da primeira equipe de IA da PUCPR e também da equipe de robótica da PUCPR, e de um PIBIC em Visão Computacional com foco em detecção e reconhecimento de objetos. 
+E atualmente estou finalizando a graduação em Ciências da Computação com TCC preterido para ser um artigo cientifico na área de visão computacional, especificamente em reconhecimento facial de emoções.
+Há e nasci no Acre, seria um grande marco pra minha cidade. 
+
+
+No Tribunal de Contas do Estado do PR como estagiário pude observar projetos que poderiam ser otimizados em processos adminsitrativos, onde pude participar do primeiro chatbot alimentado com as normas internas da instituição. 
+Na Federação do Estado do Parana pude participar na implementação do chatbot com IA da OpenAI qual ultrapassou o numero de leads dos 2 anos anteriores em 80% e 90% de conversão em cursos técnicos para o SENAI-PR.
+
